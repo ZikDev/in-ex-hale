@@ -1,0 +1,23 @@
+.l-screen {
+  height: 1024px;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.l-limit {
+  width: 800px;
+  height: 600px;
+  flex-shrink: 0;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.l-circle {
+  width: 300px;
+  height: 300px;
+  flex-shrink: 0;
+}

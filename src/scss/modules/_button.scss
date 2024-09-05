@@ -1,0 +1,11 @@
+.start-btn {
+  display: inline-flex;
+  padding: 8px 35px 13px 35px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 30px;
+  border: var(--duration, 1px) solid #000;
+  background: #fff;
+  margin-top: 70px;
+}

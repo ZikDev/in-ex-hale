@@ -12,3 +12,11 @@ img,
 video {
   display: block;
 }
+
+.limit {
+  border: var(--duration, 1px) dashed var(--Design-guides, #3ea2ff);
+}
+
+.logo {
+  margin-bottom: 40px;
+}
