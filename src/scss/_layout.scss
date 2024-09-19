@@ -1,5 +1,5 @@
 .l-screen {
-  height: 1024px;
+  height: 100vh;
   display: flex;
   flex-flow: column nowrap;
   justify-content: center;
@@ -20,4 +20,10 @@
   width: 300px;
   height: 300px;
   flex-shrink: 0;
+}
+
+.duration,
+.exercice,
+.end {
+  display: none;
 }
